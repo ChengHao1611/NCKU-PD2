@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\USER\\Desktop\\java\\.vscode\\testJsoup\\jsoup-1.17.2.jar",
+        "jsoup-1.17.2.jar",
+        "jsoup.jar"
+    ]
+}
